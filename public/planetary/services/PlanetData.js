@@ -19,7 +19,7 @@ app.constant("FACILITIES", {
 });
 
 app.constant("PRODUCT",{
-	TIER_COST:[4,400,7200,60000,1300000],
+	TIER_COST:[4,400,7200,60000,1200000],
 	TIER_VOLUME:[0.01, 0.38, 1.5, 6, 100]
 })
 
